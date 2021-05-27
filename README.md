@@ -1,7 +1,7 @@
 # leaflet-challenge
 
 # Deployment Link
-https://danyelledoucette.github.io/leaflet-challenge/
+https://danyelledoucette.github.io/leaflet-challenge/index.html
 
 # Background
 

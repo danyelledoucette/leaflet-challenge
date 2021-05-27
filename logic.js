@@ -58,7 +58,7 @@ function markerSize(feature) {
   
   var url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
   
-  var platesPath = "tectonicplates-master/GeoJSON/PB2002_boundaries.json";
+  var platesPath = "PB2002_boundaries.json";
   
   d3.json(url, function(data) {
       d3.json(platesPath, function(platesData) {
